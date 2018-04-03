@@ -1,6 +1,6 @@
 {
 	"model" : "BBCC",
-	"version" : "3.1.10",
+	"version" : "3.1.12",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/ETON/master/BBC/release_BBC",
 	"description" : "Support Homekit/Alexa/Google"
 }
