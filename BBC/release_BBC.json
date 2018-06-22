@@ -1,6 +1,6 @@
 {
 	"model" : "BBCC",
 	"version" : "3.3.2",
-	"url" : "https://raw.githubusercontent.com/ChampOnBon/ETON/master/BBC/debug_bbc",
+	"url" : "https://raw.githubusercontent.com/ChampOnBon/ETON/master/BBC/debug_bbc_332",
 	"description" : "Support Homekit/Alexa/Google"
 }
