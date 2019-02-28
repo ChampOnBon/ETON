@@ -2,5 +2,5 @@
 	"model" : "BBCC",
 	"version" : "4.1.4",
 	"url" : "https://raw.githubusercontent.com/ChampOnBon/ETON/master/BBC/debug_bbc_4.1.4",
-	"description" : "Support Homekit/Alexa/Google"
+	"description" : "Support new Device Cloud"
 }
